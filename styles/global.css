@@ -26,12 +26,12 @@
   --inconsolata: "Inconsolata", monospace;
   --asap: "Asap", sans-serif;
 
-  --title-lg: bold 56px/120% var(--maven-pro);
-  --title-md: bold 24px/120% var(--maven-pro);
-  --title-sm: bold 16px/120% var(--maven-pro);
+  --title-lg: 700 56px/120% var(--maven-pro);
+  --title-md: 700 24px/120% var(--maven-pro);
+  --title-sm: 700 16px/120% var(--maven-pro);
 
-  --subtitle: regular 20px/120% var(--inconsolata);
+  --subtitle: 400 20px/120% var(--inconsolata);
 
-  --text-md: regular 16px/140% var(--asap);
-  --text-sm: regular 14px/140% var(--asap);
+  --text-md: 400 16px/140% var(--asap);
+  --text-sm: 400 14px/140% var(--asap);
 }
