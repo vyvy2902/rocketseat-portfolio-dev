@@ -1,4 +1,4 @@
-header {
+body > header {
   height: 750px;
   background-image: url(../assets/background/Background_Intro.png);
   background-size: cover;
